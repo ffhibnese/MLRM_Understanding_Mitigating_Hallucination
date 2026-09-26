@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.ruff_cache/
+
+# Environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Models, datasets, and generated artifacts
+data/
+model/
+models/
+outputs/
+checkpoints/
+wandb/
+*.log
+

@@ -1,0 +1,14 @@
+accelerate==1.7.0
+flash-attn==2.7.0.post2
+llmlingua==0.2.2
+numpy==1.26.4
+openai==1.59.7
+pandas==2.3.2
+peft==0.15.2
+pillow==11.0.0
+pyarrow==21.0.0
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
+transformers==4.51.3
+vllm==0.8.2
