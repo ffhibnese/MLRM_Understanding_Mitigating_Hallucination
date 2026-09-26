@@ -6,7 +6,7 @@
 [Jiawei Kong](https://scholar.google.cz/citations?user=enfcklIAAAAJ&hl=zh-CN),
 [Tianqu Zhuang](https://github.com/ZhuangQu),
 [Kuofeng Gao](https://scholar.google.com/citations?user=0hVZ0woAAAAJ&hl=zh-CN&authuser=1),
-[Bin Chen#](https://github.com/BinChen2021), and
+[Bin Chen#](https://github.com/BinChen2021),
 [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm)  
 
 ![Overview of C3PO](./figures/pipeline.png)
