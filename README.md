@@ -1,6 +1,8 @@
 # MLRM_Understanding_Mitigating_Hallucination
 [NeurIPS-2026] Multimodal Reasoning Models, Hallucination Mitigation, Contrastive Preference Optimization
 
+[[Paper]](https://arxiv.org/abs/2602.03380)
+
 [Hao Fang†](https://scholar.google.cz/citations?user=12237G0AAAAJ&hl=zh-CN),
 [Jinyu Li†](https://scholar.google.com/citations?user=iY0gUyQAAAAJ&hl=zh-CN),
 [Jiawei Kong](https://scholar.google.cz/citations?user=enfcklIAAAAJ&hl=zh-CN),
